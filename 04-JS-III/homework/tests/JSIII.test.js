@@ -71,7 +71,7 @@ describe('agregarItemAlComienzoDelArray(arr, item)', function() {
 
 describe('dePalabrasAFrase(words)', function() {
   it('should return a string that has all of the words from the array separated by spaces', function() {
-    expect(dePalabrasAFrase(['Henry', 'JavaScript', 'Class'])).toBe('Henry JavaScript Class');
+    expect(dePalabrasAFrase(['Henry','JavaScript','Class'])).toBe('Henry JavaScript Class');
     expect(dePalabrasAFrase(['Henry'])).toBe('Henry');
   });
 });

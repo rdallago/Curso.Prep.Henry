@@ -1,7 +1,0 @@
-# Homework: Javascript III
-
-## Instrucciones
----
-1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
-
-	* Arrays: Es un tipo de dato estructurado que permite almacenar un conjunto de datos homogeneo, es decir, todos ellos del mismo tipo y relacionados. Cada uno de los elementos que componen un vector pueden ser de tipo simple como caracteres, entero o real, o de tipo compuesto o estructurado como son vectores, estructuras, listas. A los datos almacenados en un array se les denomina elementos; al número de elementos de un array se les denomina tamaño o rango del vector. Para acceder a los elementos individuales de un array se emplea  un índice que será un número entero no negativo que indicará la posición del elemento dentro del array. Para referirse a una posición particular o elemento dentro del array, especificamos el nombre del array y el número de posición del elemento particular dentro del mismo, el índice. Los arrays en gran parte se definen como las variables ordinarias, excepto en que cada array debe acompañarse de una especificación de tamaño (número de elementos). Para un array unidimensional, el tamaño se especifica con una expresión entera positiva encerrada entre corchetes. La expresión es normalmente una constante entera positiva.
